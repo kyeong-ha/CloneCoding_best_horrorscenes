@@ -4,4 +4,4 @@
 #### https://besthorrorscenes.com/
 
 ### 클론코딩한 사이트
-#### https://parkkyeongha.github.io/clonecoding_besthorrorscenes/
+#### https://kyeongha.github.io/CloneCoding_best_horrorscenes/
